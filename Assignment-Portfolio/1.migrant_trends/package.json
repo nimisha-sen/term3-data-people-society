@@ -1,0 +1,14 @@
+{
+  "name": "21d13219b3b84aba",
+  "main": "21d13219b3b84aba@385.js",
+  "version": "385.0.0",
+  "homepage": "https://observablehq.com/d/21d13219b3b84aba",
+  "author": {
+    "name": "data-people-society",
+    "url": "https://observablehq.com/@data-people-society"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
